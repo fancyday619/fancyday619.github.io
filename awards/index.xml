@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AWARDS &amp; HONORS on Lin Zhou</title>
-    <link>https://www.linzhou.online/awards/</link>
+    <link>http://localhost:1313/awards/</link>
     <description>Recent content in AWARDS &amp; HONORS on Lin Zhou</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>©Lin Zhou</copyright>
-    <atom:link href="https://www.linzhou.online/awards/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/awards/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
