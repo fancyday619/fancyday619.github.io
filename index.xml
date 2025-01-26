@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HOME on Lin Zhou</title>
-    <link>http://localhost:56722/</link>
+    <link>https://www.linzhou.online/</link>
     <description>Recent content in HOME on Lin Zhou</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>©Lin Zhou</copyright>
     <lastBuildDate>Wed, 01 May 2024 09:37:55 +0200</lastBuildDate>
-    <atom:link href="http://localhost:56722/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.linzhou.online/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Topic 1</title>
-      <link>http://localhost:56722/post/topic/topic1/</link>
+      <link>https://www.linzhou.online/post/topic/topic1/</link>
       <pubDate>Wed, 01 May 2024 09:37:55 +0200</pubDate>
-      <guid>http://localhost:56722/post/topic/topic1/</guid>
+      <guid>https://www.linzhou.online/post/topic/topic1/</guid>
       <description>&lt;h3 id=&#34;commons-governance-and-rural-land-development&#34;&gt;Commons Governance and Rural Land Development&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Topic 2</title>
-      <link>http://localhost:56722/post/topic/topic2/</link>
+      <link>https://www.linzhou.online/post/topic/topic2/</link>
       <pubDate>Mon, 29 Apr 2024 19:49:05 +0200</pubDate>
-      <guid>http://localhost:56722/post/topic/topic2/</guid>
+      <guid>https://www.linzhou.online/post/topic/topic2/</guid>
       <description>&lt;h3 id=&#34;network-based-megaregion-research-and-regional-planning&#34;&gt;Network-based Megaregion Research and Regional Planning&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Topic 3</title>
-      <link>http://localhost:56722/post/topic/topic3/</link>
+      <link>https://www.linzhou.online/post/topic/topic3/</link>
       <pubDate>Sun, 28 Apr 2024 19:25:30 +0200</pubDate>
-      <guid>http://localhost:56722/post/topic/topic3/</guid>
+      <guid>https://www.linzhou.online/post/topic/topic3/</guid>
       <description>&lt;h3 id=&#34;individual-behavior-built-environment-and-sustainable-development&#34;&gt;Individual Behavior, Built Environment, and Sustainable Development&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Topic 4</title>
-      <link>http://localhost:56722/post/topic/topic4/</link>
+      <link>https://www.linzhou.online/post/topic/topic4/</link>
       <pubDate>Sat, 27 Apr 2024 20:18:12 +0100</pubDate>
-      <guid>http://localhost:56722/post/topic/topic4/</guid>
+      <guid>https://www.linzhou.online/post/topic/topic4/</guid>
       <description>&lt;h3 id=&#34;technological-and-methodological-advances-in-geospatial-analysis&#34;&gt;Technological and Methodological Advances in Geospatial Analysis&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Topic 5</title>
-      <link>http://localhost:56722/post/topic/topic5/</link>
+      <link>https://www.linzhou.online/post/topic/topic5/</link>
       <pubDate>Sat, 27 Apr 2024 19:12:12 +0100</pubDate>
-      <guid>http://localhost:56722/post/topic/topic5/</guid>
+      <guid>https://www.linzhou.online/post/topic/topic5/</guid>
       <description>&lt;h3 id=&#34;theoretical-contributions-and-literature-analysis-in-land-science&#34;&gt;Theoretical Contributions and Literature Analysis in Land Science&lt;/h3&gt;</description>
     </item>
   </channel>
